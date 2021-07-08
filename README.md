@@ -1,5 +1,11 @@
 # Ng Service Layer
 
+    - HttpClient, HttpParams
+    - Async Pipe
+    - Ng Generate Services
+    - Fetching Data
+    - Modification data with an HTTP Put
+
 # Installation pre-requisites
 
 IMPORTANT: Please use Node 14 (Long Term Support version).
